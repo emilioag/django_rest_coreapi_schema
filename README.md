@@ -7,6 +7,10 @@ This package is a schema for django restframework.
 ## Installation
 
 ```bash
+$ pip install django-rest-coreapi-schema
+```
+
+```bash
 $ pip install -e git+https://github.com/emilioag/django_rest_coreapi_schema.git#egg=django_rest_coreapi_schema
 ```
 
