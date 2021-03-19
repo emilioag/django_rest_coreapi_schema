@@ -25,7 +25,7 @@ setup(
     packages=find_packages(exclude=['contrib', 'docs', 'tests', 'examples']),
     install_requires=[
         'Django==2.0',
-        'djangorestframework==3.7.7',
+        'djangorestframework==3.11.2',
         'coreapi==2.3.3',
         'Pygments==2.2.0',
         'Markdown==2.6.10',
