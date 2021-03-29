@@ -27,7 +27,7 @@ setup(
         'Django==2.0',
         'djangorestframework==3.7.7',
         'coreapi==2.3.3',
-        'Pygments==2.2.0',
+        'Pygments==2.7.4',
         'Markdown==2.6.10',
     ],
     extras_require={
