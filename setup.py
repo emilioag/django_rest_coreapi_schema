@@ -24,7 +24,7 @@ setup(
     keywords='django restframework schema coreapi swagger',
     packages=find_packages(exclude=['contrib', 'docs', 'tests', 'examples']),
     install_requires=[
-        'Django==2.0',
+        'Django==2.2.24',
         'djangorestframework==3.7.7',
         'coreapi==2.3.3',
         'Pygments==2.2.0',
